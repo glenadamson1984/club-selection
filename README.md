@@ -16,3 +16,7 @@ git push -u origin master
 
 Then we cleaned out the files we didnt need such as the css files and the logo and deleted everything but a div on the App component
 
+and followed the instructions here to set up eslint prettier and husky 
+
+https://dev.to/ankitt8/setting-up-eslint-airbnb-configuration-prettier-and-husky-pre-commit-hooks-in-cra-5dbo
+
